@@ -1,0 +1,15 @@
+# Приватные ключи
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Сертификаты и CSR
+*.crt
+*.csr
+*.cer
+
+# Kubeconfig-файлы (содержат токены/сертификаты)
+kubeconfig
+kubeconfig-*
+*.kubeconfig
